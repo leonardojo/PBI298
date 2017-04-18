@@ -10,3 +10,4 @@ paste(a)
 test <- data.frame(names)
 
 a$V1 <- 1
+a$V2 <- 2
