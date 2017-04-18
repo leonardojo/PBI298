@@ -8,3 +8,5 @@ names <- names(a)
 
 paste(a)
 test <- data.frame(names)
+
+a$V1 <- 1
